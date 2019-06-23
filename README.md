@@ -8,7 +8,7 @@ Project #3 of Udacity's [Front-End Web Developer Nanodegree](https://www.udacity
 
 ######Live
 
-Point your browser to http://networkconcept.solutions/portfolio/frogger
+Point your browser to https://niconcepts.com/examples/frogger
 
 ######Locally
 
