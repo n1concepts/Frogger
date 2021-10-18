@@ -15,7 +15,7 @@ Point your browser to https://niconcepts.com/examples/frogger
 **1.** Clone this repo:
 
 ```
-$ git clone https://github.com/n1concepts
+$ git clone https://github.com/websitesupport247
 
 **2.** Serve the application:
 
